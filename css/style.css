@@ -1,9 +1,9 @@
 /*importing a custom font from google */
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,100);
+@import url(https://fonts.googleapis.com/css?family=Poppins:400,300,100);
 
 body {
-    font-family: "Lato";
-    background: #a329b9;
+    font-family: 'Poppins', sans-serif;
+    background: #7e0578;
     overflow: hidden;
     height: 100%;
     width: 100%;
@@ -28,10 +28,10 @@ body {
 
  /* generating the text looks of white */
  h1{
-     color: #ffffff;
-     font-size: 5em;
+     color: #f8f7f1;
+     font-size: 10em;
      font-weight: 100;
-     letter-spacing: 0.2em;
+     letter-spacing: 0.05em;
      position: absolute;
      top: 50%;
      left: 50%;
