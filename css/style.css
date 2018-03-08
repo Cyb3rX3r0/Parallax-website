@@ -9,7 +9,7 @@ h1{
     font-weight: normal;
     font-size: 55px;
     text-align: center;
-    color: #fff;
+    color: rgb(231, 217, 16);
     margin: 0;
     padding: 0;
 }
@@ -19,7 +19,7 @@ h2{
     font-weight: normal;
     font-size: 40px;
     text-align: center;
-    color: #fff;
+    color: rgb(45, 191, 248);
     margin: 0;
     padding: 0;
 }
@@ -69,7 +69,7 @@ hold the logo and the navigation, float it the right*/
 
 #nav li a { color: #fff; opacity:0.6; font-size: 16px; text-decoration: none; font-family: 'Wellfleet'; }
 #nav li a.active { color: #fff; opacity:1; border-bottom: 2px solid #fff; }
-#nav li a:hover { color: #fff; opacity:1; }
+#nav li a:hover { color: rgb(231, 217, 16); opacity:1; }
 
 /* adding styles for the quotes , author and images for the quote container as well */
 .quotes {
@@ -94,7 +94,7 @@ and also padding is required to each slide in order to place the elements in the
 
 #slide1, #slide2{ width: 100%; }
 #slide1{
-    background: url('../img/slide1.gif') 50% 0 no-repeat fixed;
+    background: url('../img/slide2.jpg') 50% 0 no-repeat fixed;
     color: #fff;
     height: 600px;
     margin: 0;
@@ -112,7 +112,7 @@ and also padding is required to each slide in order to place the elements in the
 }
 
 #slide3 {
-    background: url('../img/slide3.jpg') 50% 0 no-repeat fixed;
+    background: url('../img/slide1.jpg') 50% 0 no-repeat fixed;
     color: #fff;
     height: 600px;
     padding: 170px 0 0 0;
@@ -127,7 +127,7 @@ and also padding is required to each slide in order to place the elements in the
 }
 
 #slide5{
-    background: url('../img/slide5.jpg') 50% 0 no-repeat fixed;
+    background: url('../img/slide3.jpg') 50% 0 no-repeat fixed;
     height: 200px;
     margin: 0 auto;
     padding: 250px 0;
